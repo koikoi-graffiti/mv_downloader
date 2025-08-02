@@ -6,11 +6,6 @@ from PySide6.QtWidgets import (QApplication,
                                QLineEdit,
                                QFileDialog)
 
-from PySide6.QtCore import (Signal, 
-                            #Slot,
-                            #QObject
-                            )
-
 import os
 import sys
 
